@@ -1,0 +1,6 @@
+C:\Users\bella\source\repos\vickyrose456\myIGME-201\TigerChatPeopleLib\bin\Debug\TigerChatPeopleLib.dll
+C:\Users\bella\source\repos\vickyrose456\myIGME-201\TigerChatPeopleLib\bin\Debug\TigerChatPeopleLib.pdb
+C:\Users\bella\source\repos\vickyrose456\myIGME-201\TigerChatPeopleLib\obj\Debug\TigerChatPeopleLib.csprojAssemblyReference.cache
+C:\Users\bella\source\repos\vickyrose456\myIGME-201\TigerChatPeopleLib\obj\Debug\TigerChatPeopleLib.csproj.CoreCompileInputs.cache
+C:\Users\bella\source\repos\vickyrose456\myIGME-201\TigerChatPeopleLib\obj\Debug\TigerChatPeopleLib.dll
+C:\Users\bella\source\repos\vickyrose456\myIGME-201\TigerChatPeopleLib\obj\Debug\TigerChatPeopleLib.pdb
